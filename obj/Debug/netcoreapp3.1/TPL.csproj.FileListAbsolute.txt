@@ -1,0 +1,14 @@
+C:\Users\aplas\Downloads\Telegram Desktop\TPL\bin\Debug\netcoreapp3.1\TPL.exe
+C:\Users\aplas\Downloads\Telegram Desktop\TPL\bin\Debug\netcoreapp3.1\TPL.deps.json
+C:\Users\aplas\Downloads\Telegram Desktop\TPL\bin\Debug\netcoreapp3.1\TPL.runtimeconfig.json
+C:\Users\aplas\Downloads\Telegram Desktop\TPL\bin\Debug\netcoreapp3.1\TPL.runtimeconfig.dev.json
+C:\Users\aplas\Downloads\Telegram Desktop\TPL\bin\Debug\netcoreapp3.1\TPL.dll
+C:\Users\aplas\Downloads\Telegram Desktop\TPL\bin\Debug\netcoreapp3.1\TPL.pdb
+C:\Users\aplas\Downloads\Telegram Desktop\TPL\obj\Debug\netcoreapp3.1\TPL.csproj.AssemblyReference.cache
+C:\Users\aplas\Downloads\Telegram Desktop\TPL\obj\Debug\netcoreapp3.1\TPL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aplas\Downloads\Telegram Desktop\TPL\obj\Debug\netcoreapp3.1\TPL.AssemblyInfoInputs.cache
+C:\Users\aplas\Downloads\Telegram Desktop\TPL\obj\Debug\netcoreapp3.1\TPL.AssemblyInfo.cs
+C:\Users\aplas\Downloads\Telegram Desktop\TPL\obj\Debug\netcoreapp3.1\TPL.csproj.CoreCompileInputs.cache
+C:\Users\aplas\Downloads\Telegram Desktop\TPL\obj\Debug\netcoreapp3.1\TPL.dll
+C:\Users\aplas\Downloads\Telegram Desktop\TPL\obj\Debug\netcoreapp3.1\TPL.pdb
+C:\Users\aplas\Downloads\Telegram Desktop\TPL\obj\Debug\netcoreapp3.1\TPL.genruntimeconfig.cache
